@@ -1,0 +1,16 @@
+development:
+  adapter: postgresql
+  database: test_import_csv_development
+  host: localhost
+test:
+  adapter: postgresql
+  database: test_import_csv_rails_test
+  host: localhost
+
+production:
+  adapter: postgresql
+  pool: 5
+  encoding: utf8
+  database: test_import_csv_production
+  username:
+  password:

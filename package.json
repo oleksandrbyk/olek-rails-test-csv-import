@@ -1,0 +1,10 @@
+{
+  "name": "csvuploader",
+  "private": true,
+  "dependencies": {
+    "backbone": "^1.4.0",
+    "backbone.marionette": "^4.1.2",
+    "jquery": "^3.4.1",
+    "underscore": "^1.9.1"
+  }
+}

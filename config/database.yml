@@ -12,8 +12,3 @@ production:
   pool: 5
   encoding: utf8
   database: test_import_csv_production
-  username:
-  password:
-
-# production:
-#   url: <%= ENV['DATABASE_URL'] %>
